@@ -1,0 +1,8 @@
+tkinter
+smtplib
+email
+random
+time
+webbrowser
+os
+threading
